@@ -7,6 +7,8 @@ gem 'rails', '3.2.6'
 
 gem 'sqlite3'
 gem 'bigdecimal'
+gem 'therubyracer'
+gem 'minitest'
 
 
 # Gems used only for assets and not required
